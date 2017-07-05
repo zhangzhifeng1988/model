@@ -1,0 +1,9 @@
+{
+    "name": "admin/model",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "zhangzhifeng1988\\model\\":""
+        }
+    }
+}
