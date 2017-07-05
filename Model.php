@@ -1,7 +1,7 @@
 <?php
 //1.构建Model类的命名空间
 //2.便于通过命名空间准确的调用Model类中的方法
-namespace houdunwang\model;
+namespace zhangzhifeng1988\model;
 //1.构建Model类
 //2.通过调用Model类来完成静态调用或者普通调用类方法的都可以实现调用Base中的方法
 class Model{

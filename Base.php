@@ -1,7 +1,7 @@
 <?php
 //1.构建Base类的命名空间
 //2.便于通过命名空间精准调用Base类中的方法
-namespace houdunwang\model;
+namespace zhangzhifeng1988\model;
 //1.构建PDOException错误信息命名空间
 //2.便于pdo错误信息被catch接收到输出
 use PDOException;
