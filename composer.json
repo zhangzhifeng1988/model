@@ -1,5 +1,5 @@
 {
-    "name": "admin/model",
+    "name": "zhangzhifeng1988/model",
     "require": {},
     "autoload":{
         "psr-4":{
